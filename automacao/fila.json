@@ -1,0 +1,30 @@
+[
+  {
+    "id": "aviao-pesado",
+    "tema": "Como um avião tão pesado consegue sair do chão?"
+  },
+  {
+    "id": "agua-no-predio",
+    "tema": "Como a água chega ao último andar de um prédio?"
+  },
+  {
+    "id": "ponte-balanca",
+    "tema": "Por que uma ponte balança e não cai?"
+  },
+  {
+    "id": "trem-freia",
+    "tema": "Por que um trem precisa de tanto espaço para parar?"
+  },
+  {
+    "id": "geladeira-esquenta",
+    "tema": "Por que a geladeira esquenta por fora enquanto esfria por dentro?"
+  },
+  {
+    "id": "cidade-subterranea",
+    "tema": "O que existe debaixo de uma rua movimentada?"
+  },
+  {
+    "id": "guindaste-sobe",
+    "tema": "Como montam um guindaste mais alto que o prédio?"
+  }
+]

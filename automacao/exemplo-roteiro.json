@@ -1,0 +1,90 @@
+{
+  "titulo": "Como um navio de aço flutua, mas um prego afunda?",
+  "capa": "NAVIO DE AÇO FLUTUA…\nE O *PREGO* AFUNDA?",
+  "fps": 24,
+  "estilo": "facetado",
+  "voz": {
+    "motor": "elevenlabs",
+    "id": "iJ7HFMLySFb7M2U4KGy5",
+    "modelo": "eleven_multilingual_v2",
+    "estabilidade": 0.4,
+    "similaridade": 0.8,
+    "estilo": 0.3,
+    "velocidade": 1.1,
+    "acelerar": 1
+  },
+  "frases": [
+    {
+      "plano": "gancho",
+      "texto": "Como um navio de aço flutua, mas um prego afunda?",
+      "gancho": true
+    },
+    {
+      "plano": "prego",
+      "texto": "Você joga o prego na água. Ele vai pro fundo. Então como um navio inteiro fica lá em cima?"
+    },
+    {
+      "plano": "bloco",
+      "texto": "Vamos começar com uma chapa de aço. Se você faz um bloco compacto e solta na água, ele afunda."
+    },
+    {
+      "plano": "casco",
+      "texto": "Mas agora você dá outra forma ao metal: um casco largo, com bastante espaço por dentro."
+    },
+    {
+      "plano": "desloca",
+      "texto": "O peso continua lá. Só que esse formato consegue afastar muito mais água antes de ficar totalmente submerso."
+    },
+    {
+      "plano": "empuxo",
+      "texto": "E a água empurra o casco pra cima. Quanto mais ele mergulha, maior fica o volume de água deslocado."
+    },
+    {
+      "plano": "nome_empuxo",
+      "texto": "Essa força pra cima é o empuxo."
+    },
+    {
+      "plano": "equilibrio",
+      "texto": "O navio encontra uma posição em que o empuxo equilibra o peso. Aí ele flutua."
+    },
+    {
+      "plano": "compara",
+      "texto": "O prego, mesmo todo mergulhado, não desloca água suficiente pra equilibrar o próprio peso."
+    },
+    {
+      "plano": "carga",
+      "texto": "Mas e quando você enche o navio de carga?"
+    },
+    {
+      "plano": "calado",
+      "texto": "Ele fica mais pesado e afunda um pouco mais, até deslocar água suficiente outra vez."
+    },
+    {
+      "plano": "tonelada",
+      "texto": "Acrescentou uma tonelada de carga? Para voltar ao equilíbrio, precisa deslocar mais uma tonelada de água."
+    },
+    {
+      "plano": "limite",
+      "texto": "Só que esse espaço de reserva não é infinito. Sobrecarga ou entrada de muita água podem fazer o navio perder a capacidade de continuar flutuando."
+    },
+    {
+      "plano": "resumo",
+      "texto": "Por fora, parece um prédio viajando pelo mar. Por dentro, o formato do casco permite deslocar água suficiente pra sustentar todo aquele peso."
+    },
+    {
+      "plano": "segue",
+      "texto": "Curtiu descobrir? Segue o Mundo 3D! Qual coisa a gente desmonta no próximo?"
+    }
+  ],
+  "cauda": {
+    "segundos": 1.6,
+    "plano": "cartao"
+  },
+  "trilha": {
+    "arquivo": "trilha",
+    "ganho": 0.1
+  },
+  "efeitos": {
+    "abaixa": true
+  }
+}
