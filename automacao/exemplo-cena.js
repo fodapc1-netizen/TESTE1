@@ -36,7 +36,7 @@
  for(let j=-60;j<61;j++){box(.13,.62,.13,0x758b95,city,-1.3,.8,j*4);box(.08,.08,4,0x758b95,city,-1.3,1.08,j*4+2)}
  ocean=new THREE.Group();K.scene.add(ocean);const water=box(900,.12,1000,0x2589b9,ocean,449,-.28,0);water.material.roughness=.24;water.material.metalness=.18;
  for(let i=0;i<110;i++){const x=2+(i*13.17)%130,z=-95+(i*7.31)%190;const w=box(.5+(i%4)*.4,.014,.035,0x71c8da,ocean,x,-.20,z);waves.push(w)}
- 
+
  for(let j=0;j<8;j++){const g=K.carro([0xc4443a,0xd7d9ce,0x33799b,0xefbf43][j%4]);g.scale.setScalar(.8);K.scene.remove(g);city.add(g);g.position.set(-7+(j%2)*-4,.12,-35+j*10);g.rotation.y=Math.PI/2;cars.push(g)}
  clouds=new THREE.Group();K.scene.add(clouds);for(let i=0;i<8;i++)for(let j=0;j<3;j++){const c=add(new THREE.SphereGeometry(3.0,12,8),0xeff7ff,clouds,-60+i*20+j*3,32+(i%3)*3,-65-j*3);c.scale.set(1.7,.35,1)}
  const brand=document.createElement('div');brand.style.cssText='position:absolute;left:52px;top:90px;color:white;font:800 27px Arial;letter-spacing:5px;text-shadow:0 2px 4px #183e59';brand.textContent='MUNDO 3D';K.palco.appendChild(brand);
