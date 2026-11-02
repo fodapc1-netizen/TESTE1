@@ -1,6 +1,8 @@
 # Vídeos diários do Mundo 3D
 
-Rotina preparada para GitHub Actions, independente do computador pessoal. O agendamento fica desligado até configurar `AUTOMACAO_ATIVA=true`. Nenhuma rede social está conectada.
+Desativada a pedido do usuário. O workflow foi retirado de `.github/workflows/` e arquivado em `automacao/video-diario.desativado.yml`; não há agendamento nem execução manual desse workflow disponível. A criação dos vídeos voltou ao processo pela conversa, com revisão de prévias e geração após aprovação. Nenhuma rede social está conectada.
+
+As instruções abaixo ficam apenas como referência histórica. Cadastrar chaves ou mudar variáveis não reativa a rotina; uma futura reativação exigirá novo pedido e restauração do workflow.
 
 ## Ativar
 
